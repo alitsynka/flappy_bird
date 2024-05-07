@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/flappy_bird/static/css/main.92ecf7a2.css",
-    "main.js": "/flappy_bird/static/js/main.fc5969b9.js",
+    "main.js": "/flappy_bird/static/js/main.a3de2d9c.js",
     "static/media/fact-bold.otf": "/flappy_bird/static/media/fact-bold.76bffef9f179ee4cc86d.otf",
     "index.html": "/flappy_bird/index.html",
     "main.92ecf7a2.css.map": "/flappy_bird/static/css/main.92ecf7a2.css.map",
-    "main.fc5969b9.js.map": "/flappy_bird/static/js/main.fc5969b9.js.map"
+    "main.a3de2d9c.js.map": "/flappy_bird/static/js/main.a3de2d9c.js.map"
   },
   "entrypoints": [
     "static/css/main.92ecf7a2.css",
-    "static/js/main.fc5969b9.js"
+    "static/js/main.a3de2d9c.js"
   ]
 }
