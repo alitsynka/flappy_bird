@@ -27,3 +27,7 @@ p, a, h2 {
 * {
     box-sizing: border-box;
 }
+
+body {
+    touch-action: none !important;
+}
